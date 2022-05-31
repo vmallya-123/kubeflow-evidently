@@ -1,4 +1,4 @@
-## Data Drift Detection Kubeflow Pipeline  
+## Data Drift Detection In Kubeflow Pipeline  
 To deploy the pipeline please compile the data_Drift_pipeline.py by running 
 ```
 python data_drift_pipeline.py
